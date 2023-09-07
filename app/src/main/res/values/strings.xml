@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizPractice</string>
+    <string name="welcome_to_python_quiz">welcome to python quiz</string>
+    <string name="textview">Python was developed by james gosling in 1991</string>
+</resources>
